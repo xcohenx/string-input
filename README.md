@@ -1,3 +1,3 @@
 # string-input
 
-This is Yarin test JavScript project 2ss
+This is Yarin test JavScript project
