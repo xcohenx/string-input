@@ -1,0 +1,26 @@
+body {
+  padding: 3rem;
+}
+.wrapper {
+  font-size: 12px;
+  text-align: left;
+  border-radius: 5px;
+  border: 1px solid #1f1f1f;
+  padding: 0.5rem 1rem;
+  background-color: rgba(255, 0, 0, 0.363);
+  transition: all 300ms ease;
+}
+.wrapper:hover {
+  filter: blur(5px);
+  transform: scale(1.03);
+}
+.title {
+  text-transform: capitalize;
+  font-size: 20px;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-weight: bold;
+  color: blue;
+}
